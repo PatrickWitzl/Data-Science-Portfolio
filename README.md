@@ -44,16 +44,13 @@ I’m a **Data Science enthusiast** with a passion for using technology to drive
 - **Python Data Structures** – University of Michigan (Grade Achieved: 100%)
 
 ## 🌍 Let's Connect
-- 📬 [LinkedIn](https://www.linkedin.com/in/patrick-witzl/)  
-- 🌐 [Website/Portfolio](#)  
-- 🐦 [Twitter](#)
+
+
+- 📬 [LinkedIn](https://www.linkedin.com/in/patrick-witzl/)
+- 🌐 [Website/Portfolio](https://www.grow-consulting-media.de)
 
 ---
 
 Feel free to explore my repositories to see the code and projects I’m working on. Looking forward to connecting with like-minded individuals and learning from the Data Science community!
 
 
-### 🌍 Let's Connect
-
-- 📬 [LinkedIn](https://www.linkedin.com/in/patrick-witzl/)
-- 🌐 [Website/Portfolio](https://www.grow-consulting-media.de)
