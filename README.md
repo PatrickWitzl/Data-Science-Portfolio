@@ -1,68 +1,55 @@
-# Hi there, I'm Patrick 👋
+# Data Science Specializations - Project Notebooks
 
-### 🌟 About Me
+Welcome to my Data Science Specializations portfolio! Below is a collection of notebooks showcasing the work and skills I have gained through various data science courses and specializations. Each notebook is a unique project that demonstrates different aspects of data science, such as data analysis, machine learning, visualization, and more.
 
-I’m a **Data Science enthusiast** with a passion for using technology to drive data-driven decision-making. My background in the **chemical industry** has equipped me with strong analytical skills, which I now apply to projects in **Machine Learning**, **Data Analysis**, and **Automation**. In addition to my technical skills, my professional experience in **unions** and **politics** has shaped my approach to strategic thinking and problem-solving.
+## Notebooks
 
-- 💻 I primarily code in **Python**.
-- 🎯 My main areas of focus are **Machine Learning**, **Data Analysis**, **Automation**, and **Cloud Computing** (currently learning).
-- 🔭 I’m currently working on an **employee absence prediction model**.
-- ⚡️ I’m constantly expanding my skill set by learning new tools and frameworks, such as **TensorFlow**, **MLflow**, and **Scikit-Learn**.
-- 🏒 When I’m not coding, I enjoy playing **ice hockey**.
+### 1. **Australien_weather.ipynb**
+   - **Overview**: This notebook involves working with Australian weather data, where I analyze and visualize the weather patterns across various regions in Australia.
+   - **Techniques Used**: Data cleaning, exploratory data analysis (EDA), and data visualization using Python libraries such as Pandas, Matplotlib, and Seaborn.
+   - **Key Insights**: The notebook highlights seasonal trends and correlations between different weather factors like temperature, rainfall, and wind speed.
 
-### 📊 Skills
+### 2. **Automobile Sales Statistics.ipynb**
+   - **Overview**: This notebook involves analyzing automobile sales statistics, focusing on the distribution of sales over time, regions, and various car models.
+   - **Techniques Used**: Data wrangling, visualization (Matplotlib, Seaborn), and descriptive statistics.
+   - **Key Insights**: The analysis helps identify trends in the automobile market, such as the impact of seasons or economic factors on car sales.
 
-- **Programming Languages**: Python (Pandas, Numpy, Matplotlib, Scikit-Learn, TensorFlow, Keras)
-- **Tools & Technologies**: Jupyter, PyCharm, Git, Dash
-- **Other**: SQL, GitHub Actions
+### 3. **DataScienceEcosystem.ipynb**
+   - **Overview**: This notebook provides an overview of the data science ecosystem, including tools and techniques used throughout the field.
+   - **Techniques Used**: Data science tools and libraries overview.
+   - **Key Insights**: An introduction to popular data science tools like Jupyter, Pandas, Scikit-Learn, and Matplotlib.
 
-### 🔧 Current Projects
+### 4. **Extracting and Visualizing Stock Data.ipynb**
+   - **Overview**: This notebook involves extracting stock market data using APIs and performing data visualization to analyze stock trends.
+   - **Techniques Used**: API usage (e.g., Yahoo Finance), data wrangling, and time series visualization.
+   - **Key Insights**: The project demonstrates how to fetch live data, clean it, and visualize stock market performance over time.
 
-- **Data Science Portfolio**: A collection of projects showcasing my expertise in **Machine Learning** and **Data Analysise**.
-- **Falcon 9 Data Science Capstone:** Analyzing and predicting data related to SpaceX Falcon 9 launches.  
-- **Employee Turnover Prediction Model:** A machine learning model predicting employee turnover, with a small interactive dashboard to visualize turnover predictions and key insights.  
+### 5. **House_Sales_in_King_Count_USA.ipynb**
+   - **Overview**: This notebook focuses on analyzing housing sales data in King County, USA, to predict housing prices based on various features.
+   - **Techniques Used**: Exploratory data analysis (EDA), feature engineering, and machine learning (regression models).
+   - **Key Insights**: Insights include identifying the most important features that influence house prices and predicting house values based on historical data.
 
-## 🛠️ My GitHub Repositories:
-Here’s a quick overview of the key repositories in my Data Science portfolio:
+### 6. **Classification with Python.ipynb**
+   - **Overview**: This notebook is the final assignment for the ML0101EN course, where I applied various classification algorithms to predict outcomes based on a dataset.
+   - **Techniques Used**: Data preprocessing, model selection, training, and evaluation using classification algorithms like Linear Regression, KNN, Decision Trees, Logistic Regression, and SVM.
+   - **Key Insights**: The notebook demonstrates how to choose appropriate models, tune hyperparameters, and evaluate their performance using metrics such as Accuracy Score, Jaccard Index, F1-Score, and others. It also highlights how to generate a detailed report based on the model evaluations.
 
-1. **[Data Science Portfolio](https://github.com/PatrickWitzl/Data-Science-Portfolio)**  
-   A collection of my projects showcasing expertise in Machine Learning and Data Analysis.
-
-2. **[SpaceX Falcon 9 Data Science Capstone](https://github.com/PatrickWitzl/SpaceX-Falcon-9-Data-Science-Capstone)**  
-   A capstone project involving data collection, web scraping, data wrangling, and machine learning to predict SpaceX Falcon 9 launch success.
-
-3. **[Employee Turnover Prediction Model](https://github.com/PatrickWitzl/Employee-Turnover-Prediction)**  
-   A machine learning model predicting employee turnover, featuring a small interactive dashboard.
-
-## 🏆 Certifications & Specializations
-
-### My Specializations:
-- **Python for Everybody** – University of Michigan  
-- **Python for Cybersecurity** – Infosec  
-- **Machine Learning** – DeepLearning.AI, Stanford University  
-- **Applied Data Science** – IBM  
-- **Statistics with Python** – University of Michigan  
-
-### My Courses:
-- **Fitting Statistical Models to Data with Python** – University of Michigan (Grade Achieved: 100%)  
-- **Using Python to Access Web Data** – University of Michigan (Grade Achieved: 100%)  
-- **Capstone: Retrieving, Processing, and Visualizing Data with Python** – University of Michigan (Grade Achieved: 100%)  
-- **Advanced Learning Algorithms** – DeepLearning.AI, Stanford University (Grade Achieved: 100%)  
-- **Supervised Machine Learning: Regression and Classification** – DeepLearning.AI, Stanford University (Grade Achieved: 100%)  
-- **Inferential Statistical Analysis with Python** – University of Michigan (Grade Achieved: 100%)  
-- **Using Databases with Python** – University of Michigan (Grade Achieved: 100%)  
-- **Unsupervised Learning, Recommenders, Reinforcement Learning** – DeepLearning.AI, Stanford University (Grade Achieved: 100%)  
-- **Understanding and Visualizing Data with Python** – University of Michigan (Grade Achieved: 100%)  
-- **Python Data Structures** – University of Michigan (Grade Achieved: 100%)
-
-## 🌍 Let's Connect
-
-
-- 📬 [LinkedIn](https://www.linkedin.com/in/patrick-witzl/)
-- 🌐 [Website/Portfolio](https://www.grow-consulting-media.de)
+### 7. **USA Automobile Sales Statistics Dashboard.py**
+   - **Overview**: A Python-based dashboard built using Dash to visualize automobile sales statistics for the USA.
+   - **Techniques Used**: Dashboard development with Dash, data visualization, and interactivity.
+   - **Key Insights**: The interactive dashboard allows users to filter and explore sales data across different regions and car models.
 
 ---
 
-Feel free to explore my repositories to see the code and projects I’m working on. Looking forward to connecting with like-minded individuals and learning from the Data Science community!
+## Requirements
+To run these notebooks, you will need the following libraries:
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Dash
+- Jupyter Notebooks
 
-
+You can install these libraries using `pip` or `conda`:
+```bash
+pip install pandas matplotlib seaborn scikit-learn dash jupyter
