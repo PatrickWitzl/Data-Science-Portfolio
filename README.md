@@ -12,13 +12,13 @@ I’m a **Data Science enthusiast** with a passion for using technology to drive
 ### 📊 Skills
 
 - **Programming Languages**: Python (Pandas, Numpy, Matplotlib, Scikit-Learn, TensorFlow, Keras)
-- **Tools & Technologies**: Jupyter, PyCharm, Git, Docker, MLflow, Tableau
+- **Tools & Technologies**: Jupyter, PyCharm, Git, Dash
 - **Other**: SQL, GitHub Actions
 
 ### 🔧 Current Projects
 
 - **Employee Turnover Prediction Model**: Completed! A machine learning model predicting employee turnover.
-- **Data Science Portfolio**: A collection of projects showcasing my expertise in **Machine Learning** and **Data Analysis**.
+- **Data Science Portfolio**: A collection of projects showcasing my expertise in **Machine Learning** and **Data Analysise**.
 
 ### 🏆 Certifications
 
